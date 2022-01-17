@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="leave_assignment" table="x_712584_leave_man_leave_calculator" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>leave_assignment</element>
+            <name>x_712584_leave_man_leave_calculator</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 05:11:05</sys_created_on>
+            <sys_id>c7d7c46d2f010110b4c4837cf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>leave_assignment</sys_name>
+            <sys_package display_value="Leave Management" source="x_712584_leave_man">37ba77112f010110b4c4837cf699b6eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management">37ba77112f010110b4c4837cf699b6eb</sys_scope>
+            <sys_update_name>sys_choice_x_712584_leave_man_leave_calculator_leave_assignment</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 05:11:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_assignment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_calculator</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 05:11:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfd7446d2f010110b4c4837cf699b68d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 05:11:25</sys_updated_on>
+            <value>m</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_assignment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yearly</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_calculator</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 05:11:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a87c06d2f010110b4c4837cf699b67e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 05:11:10</sys_updated_on>
+            <value>y</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

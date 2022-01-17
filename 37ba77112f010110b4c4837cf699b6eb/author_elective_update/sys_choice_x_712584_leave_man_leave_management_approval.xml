@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="approval" table="x_712584_leave_man_leave_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <name>x_712584_leave_man_leave_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 04:51:07</sys_created_on>
+            <sys_id>ee4344692f010110b4c4837cf699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>approval</sys_name>
+            <sys_package display_value="Leave Management" source="x_712584_leave_man">37ba77112f010110b4c4837cf699b6eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management">37ba77112f010110b4c4837cf699b6eb</sys_scope>
+            <sys_update_name>sys_choice_x_712584_leave_man_leave_management_approval</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 04:51:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 04:51:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3413c4692f010110b4c4837cf699b6b6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 04:51:15</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not yet request</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 04:51:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7643c4692f010110b4c4837cf699b6d4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 04:51:43</sys_updated_on>
+            <value>nyr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 04:52:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5963c4692f010110b4c4837cf699b6d1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 04:52:11</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_712584_leave_man_leave_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 04:53:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44830c292f010110b4c4837cf699b6e2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 04:53:50</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
